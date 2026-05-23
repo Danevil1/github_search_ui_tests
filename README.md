@@ -34,7 +34,6 @@ github_search_ui_tests/
 ├── conftest.py
 ├── pytest.ini
 ├── requirements.txt
-├── TEST_CASE_GITHUB_COPILOTKIT.md
 └── README.md
 ```
 
