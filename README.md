@@ -115,6 +115,7 @@ $env:HEADLESS="false"; pytest
 
 Основная часть элементов ищется через XPath. Локаторы сделаны устойчивыми к небольшим изменениям верстки: используются частичные совпадения атрибутов, текста и классов.
 
+
 ## Тест-кейс
 
 Ссылка на Google Docs: **https://docs.google.com/document/d/1pEPmAGVB1XaEhykpGmUBdbUI3-y7MTLYwQhvhZe7ZbE/edit?usp=sharing**.
