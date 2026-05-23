@@ -43,7 +43,7 @@ github_search_ui_tests/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <ссылка-на-твой-репозиторий>
+git clone <https://github.com/Danevil1/github_search_ui_tests>
 cd github_search_ui_tests
 ```
 
